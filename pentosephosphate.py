@@ -2,6 +2,8 @@ from scipy.integrate import solve_ivp
 import matplotlib.pyplot as plt
 
 
+
+
 def func(t, y, k1, k_1, k2, k_2, k3, k_3, k4, k_4, k5, k_5, k6, k_6, k7, k_7, k8, k_8,
          k9, k_9, k10, k_10, k11, k_11, k12, k_12, k13, k_13, k14, k_14, k15, k_15, k16,
          k_16, k17, k_17, k18, k_18, k19, k_19, k20, k_20, k21, k_21, k22, k_22, k23, k_23,
